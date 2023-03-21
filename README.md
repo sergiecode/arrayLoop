@@ -1,4 +1,6 @@
 
+![https://raw.githubusercontent.com/sergiecode/arrayLoop-tutorial/master/arrayloop.jpeg](https://raw.githubusercontent.com/sergiecode/arrayLoop-tutorial/master/arrayloop.jpeg)
+
 # Tutorial sobre cómo recorrer arrays en JavaScript
 
 Este tutorial te mostrará cómo recorrer arrays en JavaScript utilizando diferentes métodos.
