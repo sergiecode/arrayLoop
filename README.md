@@ -7,12 +7,12 @@ Este tutorial te mostrará cómo recorrer arrays en JavaScript utilizando difere
 
 ## Índice
 
-1.  [Introducción](https://chat.openai.com/chat#introducci%C3%B3n)
-2.  [Recorrido de arrays con un bucle for](https://chat.openai.com/chat#recorrido-de-arrays-con-un-bucle-for)
-3.  [Recorrido de arrays con el método forEach()](https://chat.openai.com/chat#recorrido-de-arrays-con-el-m%C3%A9todo-foreach)
-4.  [Recorrido de arrays con el método map()](https://chat.openai.com/chat#recorrido-de-arrays-con-el-m%C3%A9todo-map)
-5.  [Recorrido de arrays con el método filter()](https://chat.openai.com/chat#recorrido-de-arrays-con-el-m%C3%A9todo-filter)
-6.  [Conclusión](https://chat.openai.com/chat#conclusi%C3%B3n)
+1.  Introducción
+2.  Recorrido de arrays con un bucle for
+3.  Recorrido de arrays con el método forEach()
+4.  Recorrido de arrays con el método map()
+5.  Recorrido de arrays con el método filter()
+6.  Conclusión
 
 ## Introducción
 
