@@ -1,5 +1,5 @@
 
-![https://raw.githubusercontent.com/sergiecode/arrayLoop-tutorial/master/arrayloop.jpeg](https://raw.githubusercontent.com/sergiecode/arrayLoop-tutorial/master/arrayloop.jpeg)
+![Formas de barrer un arreglo](https://raw.githubusercontent.com/sergiecode/arrayLoop-tutorial/master/arrayloop.jpeg)
 
 # Tutorial sobre cómo recorrer arrays en JavaScript
 
